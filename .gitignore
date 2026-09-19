@@ -1,0 +1,5 @@
+# Database/project local files
+*.log
+*.sql.bak
+.DS_Store
+Thumbs.db
